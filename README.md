@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamamol-1exe
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning REACT
+- 🌱 I’m currently learning JAVA 
 - 📫 How to reach me amoldawane78@mail.com
 - 😄 Pronouns: amul
 - ⚡ Fun fact: Engineer
