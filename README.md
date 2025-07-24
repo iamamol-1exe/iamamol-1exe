@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JAVA 
 - 📫 How to reach me amoldawane78@mail.com
 - 😄 Pronouns: amul
-- ⚡ Fun fact: Engineer
 
 <!---
 iamamol-1exe/iamamol-1exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
